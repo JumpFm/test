@@ -1,0 +1,17 @@
+{
+    "name": "jumpfm-test",
+    "version": "1.0.0",
+    "description": "test plugin for [JumpFm](http://jumpfm.org)",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:JumpFm/jumpfm-test.git"
+    },
+    "main": "index.js",
+    "author": "Gilad Kutiel",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^8.0.28",
+        "jumpfm-api": "^1.1.3"
+    },
+    "dependencies": {}
+}
